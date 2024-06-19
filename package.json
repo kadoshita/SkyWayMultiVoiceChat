@@ -20,7 +20,7 @@
     "keycode": "^2.2.1",
     "linkify-react": "^3.0.4",
     "linkifyjs": "^3.0.5",
-    "next": "^12.3.4",
+    "next": "^14.2.4",
     "node-fetch": "^2.6.7",
     "react": "17.0.2",
     "react-dom": "17.0.2",
